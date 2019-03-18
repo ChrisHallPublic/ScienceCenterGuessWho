@@ -3,17 +3,17 @@
         {
             "Person": "Albert Einstein",
             "hints": [
-                "Does somethings cool",
+                "e=mc^2",
                 "Is a genius",
-                "can't touch this"
+                "The dog in Back to the future is named after him"
             ]
         },
         {
-            "Person": "Elliot Forbes",
+            "Person": "Angelina Jolie",
             "hints": [
-                "Has a book",
-                "Also a genius",
-                "CAN touch this"
+                "Special Envoy to the United Nations",
+                "Star of Mr And Mrs Smith with Brad Pitt",
+                "Won an Oscar"
             ]
         }
     ]
