@@ -1,0 +1,20 @@
+{
+    "games": [
+        {
+            "Person": "Albert Einstein",
+            "hints": [
+                "Does somethings cool",
+                "Is a genius",
+                "can't touch this"
+            ]
+        },
+        {
+            "Person": "Elliot Forbes",
+            "hints": [
+                "Has a book",
+                "Also a genius",
+                "CAN touch this"
+            ]
+        }
+    ]
+}
