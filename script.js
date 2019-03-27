@@ -30,7 +30,6 @@ function fetchGame() {
 
 
 function init() {
-    console.log("boobs");
     fetchGame();
 }
 
