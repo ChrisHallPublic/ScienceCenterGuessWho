@@ -161,12 +161,14 @@ img {
 .images {
     display: flex;
     flex-wrap: wrap;
+    width: 100%;
+    margin: auto;
 }
 .image {
     width: 25%;
 }
 
 .image img {
-    width: 100%;
-    height: auto;
+    /* max-width: 250px; */
+    height: 175px;
 }
